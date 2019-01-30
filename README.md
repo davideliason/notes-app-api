@@ -1,3 +1,12 @@
+# notes-app-api
+## 1/29/2019
+### David Eliason
+
+### Description
+Following the serverless-stack.com tutorial on deploying a full-stack app with Serverless and React on AWS.
+
+
+
 # Serverless Node.js Starter
 
 A Serverless starter that adds ES7 syntax, serverless-offline, environment variables, and unit test support. Part of the [Serverless Stack](http://serverless-stack.com) guide.
